@@ -1,0 +1,12 @@
+{
+  "resourceName": "seamplify",
+  "policyUUID": "b9075d88",
+  "bucketName": "s3amplify",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}
